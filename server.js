@@ -35,26 +35,3 @@ app.listen(port, () => {
     console.log(`Server running on http://localhost:${port}`);
 });
 
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
--- VISUAL --                                                                                               36        1,1           All
