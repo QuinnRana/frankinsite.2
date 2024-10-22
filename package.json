@@ -1,0 +1,27 @@
+{
+  "name": "frankinsite.2",
+  "version": "1.0.0",
+  "description": "This repo hold the nodejs server for frankensite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinnRana/frankinsite.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuinnRana/frankinsite.2/issues"
+  },
+  "homepage": "https://github.com/QuinnRana/frankinsite.2#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
